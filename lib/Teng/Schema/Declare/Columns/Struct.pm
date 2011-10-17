@@ -63,7 +63,7 @@ Teng::Schema::Declare::Columns::Struct - [One line description of module's purpo
 
 =head1 REPOSITORY
 
-https://github.com/
+https://github.com/shibayu36/p5-Teng-Schema-Declare-Columns-Struct
 
 =head1 AUTHOR
 
